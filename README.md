@@ -1,4 +1,4 @@
-# MacOSX_terminal_stopwatch_and_timer
+# MacOSX_terminal_color_spaces
 
 Mac OS X のターミナルで半角スペース、全角スペース、タプに色をつける。
 
